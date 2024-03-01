@@ -1,0 +1,46 @@
+<html>
+
+<head>
+<title> Pui cu paste &aacute la Jamie </title>
+</head>
+
+<body bgcolor=ffeeaa text=660000 link=990033 alink=99ffff>
+<blockquote>
+
+<h1> Paste cu pui &aacute la Jamie </h1>
+<img src=jamie1.jpg width=380 height=380 align=right valign=top middle>  
+<p>
+<big> Ingrediente: </big>
+<ul type=square>
+<li> <i>4 pulpe dezosate/ tãiate julien</i>
+<li> <i>2-3 cãtei de usturoi</i>
+<li> <i>dulceata de ardei iute</i>
+<li> <i>paste</i>
+<li> <i>1/2 gogosar/ ardei capia</i>
+</ul>
+</p>
+<img src=pulpedepui.jpg width=200 height=200 align=centre valign=top middle>  
+<img src=dulceta.jpg width=200 height=200 align=centre valign=top middle>  
+<img src=paste3.jpg width=200 height=200 align=centre valign=top middle>  
+<p>
+<big> Mod de preparare: </big>
+<ol type=1>
+<li> Se pun 3 linguri de ulei în tigaie.
+<li> Se adaugã carnea si se amestecã pânã se  rumeneste.
+<li> Se taie usturoiul feliute si se pune in tigaie.
+<li> Se taie jumatãtea de gogosar/ ardei capia feliute si se pune in tigaie.
+<li> Se amestecã 2-3 minute si se adaugã o lingurã de dulceatã.
+<li> Se amestecã iar.
+<li> Se adaugã pastele fierte si se amestecã.
+<li> Tigaia se ia de pe foc.
+<li> Pastele cu pui sunt gata de a fi servite.
+</ol>
+</p>
+
+<p>
+Puteti g&atildesi reteta de dulceat&atilde de ardei iute 
+<a href="dulceata ardei.html" target=_parent>reteta de dulceat&atilde de ardei iute</a> aici.
+</p>
+<a href="dulceata ardei.html" target=_parent><img src=dulceata2.jpg width=400 height=268></a>
+</body>
+</html>

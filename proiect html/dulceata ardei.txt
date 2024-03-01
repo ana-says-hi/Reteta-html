@@ -1,0 +1,42 @@
+<html>
+
+<head>
+<title> Dulceata de ardei iute </title>
+</head>
+
+<body bgcolor=ffbbaa text=880000>
+<blockquote>
+
+<h1> Dulceata de ardei iute </h1>
+
+<p>
+<big>Ingrediente: </big>
+<ul type=square>
+<li> <i>750 g ardei capia </i>
+<li> <i>250 g ardei iute </i>
+<li> <i>1 kg zahar </i>
+<li> <i>400 ml otet </i>
+</ul>
+</p> 
+<img src=ardeiiuti3.jpg width=200 height=200 align=right middle>    
+<img src=capia.jpg width=200 height=200 align=right middle>    
+<img src=zahar.jpg width=200 height=200 align=right middle>    
+<p>
+<big>Mod de preparare: </big>
+<ol type=1>
+<li>Ardeiul capia se fierbe în 600 ml de ap&atilde pan&atilde se înmoaie. Apa se arunc&atilde.
+<li>Ardeiul iute se fierbe pan&atilde se înmoaie în 600 ml apa (dupã ce a fost crestat pe lung). 
+<li>Se scot sâmburii. 
+<li>În apa ramasã se pun 400 ml de otet. 
+<li>Se adaugã zahãrul. 
+<li>Se amestecã pânã se topeste. 
+<li>Se toac&atilde ardeii capia si iuti.
+<li>Se adaug&atilde peste apa cu otet si zahãr. 
+<li>Amestecul se fierbe pânã se încheaga si apoi se pune în borcane.
+</ol>
+</p>
+<img src=dulceata2.jpg width=800 height=500>
+</blockquote>
+</body>
+
+</html>
